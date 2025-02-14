@@ -1,5 +1,9 @@
 # NLP Learning: Text Preprocessing
 
+# For more in Detail Refer:https://chatgpt.com/canvas/shared/67af9af4b3b88191b85dc38d27763a3f
+
+
+
 ## Introduction  
 Before a model can understand text, it must be cleaned and structured. **Text Preprocessing** is an essential step that improves accuracy and performance.  
 
@@ -21,10 +25,6 @@ Before a model can understand text, it must be cleaned and structured. **Text Pr
 - Raw text contains **noise** (extra characters, irrelevant words).  
 - Preprocessing ensures **clean input** for better model accuracy.  
 
-## Code and Implementation  
-Check out my **hands-on code and examples** in this notebook:  
-
-🔗 **[GitHub Repo - NLP Notebook](https://github.com/mudavathkalyan/GEN_AI/blob/main/NLP/NLP.ipynb)**  
 
 ## How to Run  
 1. Clone the repository  
